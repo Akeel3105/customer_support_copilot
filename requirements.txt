@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+faiss-cpu
+pandas
+google-generativeai
+python-dotenv
+langchain-google-genai
+huggingface_hub
+sentence-transformers
+torch>=2.0.0

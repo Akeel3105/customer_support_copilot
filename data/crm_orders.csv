@@ -1,0 +1,6 @@
+order_id,customer_name,status,delivery_date,amount
+1001,John Doe,Delivered,10-09-2025,120
+1002,Jane Smith,In Transit,25-09-2025,250
+1003,Ali Khan,Pending,28-09-2025,80
+1004,Mary Lee,Cancelled,15-09-2025,150
+1005,Ahmed Patel,Delivered,12-09-2025,300

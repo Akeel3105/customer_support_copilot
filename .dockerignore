@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+__pycache__/
+.pytest_cache/
+.cache/
+.huggingface/
